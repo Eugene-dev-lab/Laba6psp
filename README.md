@@ -1,1 +1,2 @@
-Laba6 Butterfly and net!
+# Laba6psp
+Option 11 - Butterfly and net!
